@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>true</advanced>
+        <condition/>
+        <description>Allow read for records in Loaner Request, for users with role x_cdltd_loanerrequ.loaner_request_user.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>Loaner Request</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-19 13:58:13</sys_created_on>
+        <sys_id>985857ce9f4032107f44c2d5bb24abf8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="LoanerRequest" source="x_cdltd_loanerrequ">67fc72aa9f7322107f44c2d5bb24abc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</sys_scope>
+        <sys_update_name>sys_security_acl_985857ce9f4032107f44c2d5bb24abf8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-19 14:02:31</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</application>
+        <file_path/>
+        <instance_id>4b29539a93bb66d0eaceb57c5cba1065</instance_id>
+        <instance_name>nowlearning-nlinst03242261-4zepu-0001</instance_name>
+        <name>sys_security_acl_985857ce9f4032107f44c2d5bb24abf8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>true</advanced><condition/><description>Allow read for records in Loaner Request, for users with role x_cdltd_loanerrequ.loaner_request_user.</description><local_or_existing>Local</local_or_existing><name>Loaner Request</name><operation display_value="read">read</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-19 13:58:13</sys_created_on><sys_id>985857ce9f4032107f44c2d5bb24abf8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Loaner Request</sys_name><sys_package display_value="LoanerRequest" source="x_cdltd_loanerrequ">67fc72aa9f7322107f44c2d5bb24abc2</sys_package><sys_policy/><sys_scope display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</sys_scope><sys_update_name>sys_security_acl_985857ce9f4032107f44c2d5bb24abf8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-09-19 14:02:31</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>518309554</payload_hash>
+        <record_name>Loaner Request</record_name>
+        <reverted_from/>
+        <source>2fd657f69ff322107f44c2d5bb24abfb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-19 14:02:31</sys_created_on>
+        <sys_id>333adb429f8032107f44c2d5bb24ab02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1996248a3ed0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-19 14:02:31</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>f73adb427b80321067d5aced48ea7401</update_guid>
+        <update_guid_history>f73adb427b80321067d5aced48ea7401:518309554,7c49d7026b803210d943606debbb1fda:-29663172</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-19 14:13:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>02c47a862ca347a8af9cfc27d3b0d821</sys_id>
+        <sys_metadata>985857ce9f4032107f44c2d5bb24abf8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="LoanerRequest" source="x_cdltd_loanerrequ">67fc72aa9f7322107f44c2d5bb24abc2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</sys_scope>
+        <sys_scope_delete display_value="">55bd783f99cd4b019add23f58df49b99</sys_scope_delete>
+        <sys_update_name>sys_security_acl_985857ce9f4032107f44c2d5bb24abf8</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_985857ce9f4032107f44c2d5bb24abf8">333adb429f8032107f44c2d5bb24ab02</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-09-19 14:13:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
