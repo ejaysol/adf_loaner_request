@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="LoanerRequest">dba00bae9f7322107f44c2d5bb24ab02</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>DIRECT</link_type>
+        <map_page/>
+        <mobile_title>Create New</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_loanerrequ_loaner_request</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp; sysparm_id=3f0646b1047432107f4494982bbb2c6e</query>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-09-08 15:12:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d7a083ee9f7322107f44c2d5bb24abdf</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LoanerRequest" source="x_cdltd_loanerrequ">67fc72aa9f7322107f44c2d5bb24abc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</sys_scope>
+        <sys_update_name>sys_app_module_d7a083ee9f7322107f44c2d5bb24abdf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 00:25:16</sys_updated_on>
+        <timeline_page/>
+        <title>Create New</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</application>
+        <file_path/>
+        <instance_id>9074ee4597b0b690be7a7b2e6253af34</instance_id>
+        <instance_name>nowlearning-nlinst03407047-7dfkt-0001</instance_name>
+        <name>sys_app_module_d7a083ee9f7322107f44c2d5bb24abdf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="LoanerRequest">dba00bae9f7322107f44c2d5bb24ab02</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>DIRECT</link_type><map_page/><mobile_title>Create New</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_loanerrequ_loaner_request</name><order>200</order><override_menu_roles>false</override_menu_roles><query>com.glideapp.servicecatalog_cat_item_view.do?v=1&amp; sysparm_id=3f0646b1047432107f4494982bbb2c6e</query><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-09-08 15:12:04</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d7a083ee9f7322107f44c2d5bb24abdf</sys_id><sys_mod_count>6</sys_mod_count><sys_name>Create New</sys_name><sys_overrides/><sys_package display_value="LoanerRequest" source="x_cdltd_loanerrequ">67fc72aa9f7322107f44c2d5bb24abc2</sys_package><sys_policy/><sys_scope display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</sys_scope><sys_update_name>sys_app_module_d7a083ee9f7322107f44c2d5bb24abdf</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-10-26 00:25:16</sys_updated_on><timeline_page/><title>Create New</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-724112096</payload_hash>
+        <record_name>Create New</record_name>
+        <reverted_from/>
+        <source>8a549d71047032107f4494982bbb2c01</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 00:25:16</sys_created_on>
+        <sys_id>490283bd047832107f4494982bbb2c2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a1de7b7c00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 00:25:16</sys_updated_on>
+        <type>Module</type>
+        <update_guid>010283bd337832105d41a0d82ecdb52b</update_guid>
+        <update_guid_history>010283bd337832105d41a0d82ecdb52b:-724112096,21514f3d637832100c31813aad83f288:-255715294,fb3f32b93178321070419adbe0e13d7d:-724112096,93defef5ad783210642cead7e82dd717:1563563683,dc8db2f59c783210b263cb0d0def4eba:-724112096,86cf893dc53032107564d68c458b1fa8:-1318553318</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Create New">9f2547b104b832107f4494982bbb2c0b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 00:39:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>8c8c08f3af3847f69ef24a3f68fa4431</sys_id>
+        <sys_metadata>d7a083ee9f7322107f44c2d5bb24abdf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Create New</sys_name>
+        <sys_package display_value="LoanerRequest" source="x_cdltd_loanerrequ">67fc72aa9f7322107f44c2d5bb24abc2</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</sys_scope>
+        <sys_scope_delete display_value="">55bd783f99cd4b019add23f58df49b99</sys_scope_delete>
+        <sys_update_name>sys_app_module_d7a083ee9f7322107f44c2d5bb24abdf</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d7a083ee9f7322107f44c2d5bb24abdf">490283bd047832107f4494982bbb2c2b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 00:39:04</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
