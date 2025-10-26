@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn_parameters">
+    <sys_rest_message_fn_parameters action="INSERT_OR_UPDATE">
+        <name>text</name>
+        <rest_message_function display_value="Default GET">c93d9c06d03032107f4438b4cef8e988</rest_message_function>
+        <sys_class_name>sys_rest_message_fn_parameters</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-26 07:09:56</sys_created_on>
+        <sys_id>023ed0c6d03032107f4438b4cef8e972</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text</sys_name>
+        <sys_package display_value="LoanerRequest" source="x_cdltd_loanerrequ">67fc72aa9f7322107f44c2d5bb24abc2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LoanerRequest">67fc72aa9f7322107f44c2d5bb24abc2</sys_scope>
+        <sys_update_name>sys_rest_message_fn_parameters_023ed0c6d03032107f4438b4cef8e972</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-26 07:09:56</sys_updated_on>
+        <type>string</type>
+        <value>Solana Beach, CA</value>
+    </sys_rest_message_fn_parameters>
+</record_update>
